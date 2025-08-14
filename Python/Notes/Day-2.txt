@@ -1,0 +1,15 @@
+Programming language-Language in which programmer use to give command or perform a task
+HLL-Human level language (The language that is understood by the human c,c++)
+MLL- Machine level language (The language that is understood by the machines 0,1)
+ALL-Assembly level language (The language that is between high level language and human level language used to code in microprocessor)
+IDE-Integrated development language (VScode)
+PascalCase-used to define class
+camelCase-used to define function
+snake_case-used to define variables
+kebab-case-used to define variable
+Comments-The comments are the lines in the file that are ignored by the IDE. # symbol is used.
+Type Casting-The process of conversion from one data type to other data type
+Data types in python:
+integer-whole number from 0 to infinite (1,0,4)
+floating value-decimal value (0.1, 2.7)
+string-The values that are wrapped with quotation mark and the values having combination of alphabet, number and special character
