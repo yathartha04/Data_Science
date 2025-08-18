@@ -13,3 +13,12 @@ Data types in python:
 integer-whole number from 0 to infinite (1,0,4)
 floating value-decimal value (0.1, 2.7)
 string-The values that are wrapped with quotation mark and the values having combination of alphabet, number and special character
+mutuable-the object can be changed directly
+non mutable-the object cannot be changed directly, it creates new object
+operators- operators are the symbols that performs specific operation (+,-,/,**) logical operator (and,or,not)
+List-List is a data type in python that can store multiple values of different data types. We use [] to define list. 
+append()- adds the element at the end of the list
+count()-counts the no. of element of the list
+index()-returns the index of the element
+indexing-always starts from 0, print(variable[index number])
+slicing-creates a new subset list from the original list(the end value is always exclusive) 0 this is start index num:9 this is end index num

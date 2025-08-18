@@ -12,9 +12,16 @@
 #num2 = int(input("Enter another number: "))
 #print(num1 + num2)
 
-print(int("56"))
-print(float(12))
-print(str(56))
-print(int(5.25))
-print(int("Yathartha"))
+#print(int("56"))
+#print(float(12))
+#print(str(56))
+#print(int(5.25))
+#print(int("Yathartha"))
+
+
+ 
+
+
+
+
 
