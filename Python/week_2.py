@@ -59,13 +59,18 @@ lab = {
     "terry":"c",
     "drogba":"11"
 }
-
-
+a = lab.keys()
+lab = input("Enter your username: ")
+if lab in lab:
+    print("Username already exists")
+else:
+    print("username doesnot exist")
 #Task 5.Make a complete register and login system using dictationary.
 
 # task = {
 
 # }
+
 # username = input("Enter your username: ")
 # password = input("Enter your password: ")
 
@@ -76,6 +81,26 @@ lab = {
 # password = input("Enter your password: ")
 
 # if username in task and task.get(username) == password: # credentials[username] == password:
+#     print("Login Successful")
+# else:
+#     print("Login failed")
+
+# credentials = {
+#     "Ujjwal":"Ujjwal123",
+#     "Ram":"Ram123",
+#     "Shyam":"Shyam123"
+# }
+
+# username = input("Enter your username: ")
+# password = input("Enter your password: ")
+
+# # Use update method to store the username:password in the dictionary
+# credentials.update({" ":" "})
+# print(credentials)
+# username = input("Enter your username: ")
+# password = input("Enter your password: ")
+
+# if username in credentials and credentials.get(username) == password: # credentials[username] == password:
 #     print("Login Successful")
 # else:
 #     print("Login failed")
