@@ -53,27 +53,32 @@
 
 #Task 4.Create a dictionary of usernames and passwords,extract all the usernames from the dictionary and input username from the user and check if the username is present in the extracted list of usernames.
 
-# lab = {"yathartha":"yat123","lampard":"8","terry":"3","drogba":"11"}
+lab = {
+    "yathartha":"yat123",
+    "lampard":"8",
+    "terry":"c",
+    "drogba":"11"
+}
 
 
 #Task 5.Make a complete register and login system using dictationary.
 
-task = {
+# task = {
 
-}
-username = input("Enter your username: ")
-password = input("Enter your password: ")
+# }
+# username = input("Enter your username: ")
+# password = input("Enter your password: ")
 
-task.update()
-print(task)
+# task.update()
+# print(task)
 
-username = input("Enter your username: ")
-password = input("Enter your password: ")
+# username = input("Enter your username: ")
+# password = input("Enter your password: ")
 
-if username in task and task.get(username) == password: # credentials[username] == password:
-    print("Login Successful")
-else:
-    print("Login failed")
+# if username in task and task.get(username) == password: # credentials[username] == password:
+#     print("Login Successful")
+# else:
+#     print("Login failed")
 
 
 #Task 6.Find the greatest number among three number, number is given by user.
