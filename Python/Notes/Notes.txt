@@ -13,6 +13,7 @@ Data types in python:
 integer-whole number from 0 to infinite (1,0,4)
 floating value-decimal value (0.1, 2.7)
 string-The values that are wrapped with quotation mark and the values having combination of alphabet, number and special character
+Boolean data type- rither true or false
 mutuable-the object can be changed directly
 non mutable-the object cannot be changed directly, it creates new object
 operators- operators are the symbols that performs specific operation (+,-,/,**) logical operator (and,or,not)
@@ -22,3 +23,9 @@ count()-counts the no. of element of the list
 index()-returns the index of the element
 indexing-always starts from 0, print(variable[index number])
 slicing-creates a new subset list from the original list(the end value is always exclusive) 0 this is start index num:9 this is end index num
+tuple-tuple is a immutable data type in python that wraps the element in ()
+set data type- set data type is also a mutable data type enclosed with {}. the index in set datatype is not fixed
+dictionary-dictionary is a mutable data type where the data are stored in key value pair. we use{} to define the dictionary
+conditional statement-the statements that are executed only if the condition is satisfied. they are(if else, if elif....else, loops, match)
+if else-the if block is executed only if the condition is true, if false, else block code is executed
+elif ladder- we use elif keyword. we use elif ladder to check for the multiple condition

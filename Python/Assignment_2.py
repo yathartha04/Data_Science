@@ -119,4 +119,9 @@ print(name[0:]) #start slicing
 print(name[::2]) #+ve index with step
 #-ve index with step
 
+#Task 18 aug: 
+#Tuple-Tuple is a immutable data type in python that wraps the element in ().
+c = (1,3,5,7,9,11,2,3,5,3,6,3,8,9,2,3)
+print(c.count(3))
 
+print(c.index(11))

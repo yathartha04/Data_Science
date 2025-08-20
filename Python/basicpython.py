@@ -18,10 +18,32 @@
 #print(int(5.25))
 #print(int("Yathartha"))
 
+# a = {1,2,"yathartha",3,4,"khadgi"}
+# print(a)
+# explore the set methods in python
+# a = {1,2,3,4,5}
+# b = {3,4,5,6,7}
+# print(a.union(b))
 
- 
+# dictionary = {"ujjwal":"yathartha213","hobby":"coding" }
 
+#if else
+#elif ladder
+#task create a simple calculator system
+#match match checks if the user input matches with our case or not. syntax: match:
+#case matching value:
+#executing code
+# choice = input("enter + for addition, - for sub")
+# n = int(input("enter a num"))
+# n2 = int(input("enter another num"))
+# match choice:
+#     case '+':
+#         print("addition is", n+n2)
+#     case '-':
+#         print("sub is", n-n2)
+#     case _:
+#         print("invalid input")
+# f string helps to print the variable inside the string. f stands for format
 
-
-
-
+Names = ["ram","hari"]
+#task make a complete register use update method
