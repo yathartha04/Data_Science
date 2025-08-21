@@ -29,3 +29,25 @@ dictionary-dictionary is a mutable data type where the data are stored in key va
 conditional statement-the statements that are executed only if the condition is satisfied. they are(if else, if elif....else, loops, match)
 if else-the if block is executed only if the condition is true, if false, else block code is executed
 elif ladder- we use elif keyword. we use elif ladder to check for the multiple condition
+loops-loop is a technique to execute the same block of code repeatedly.in python we have 2 types of loop(for,while)
+syntax for for loop:
+for variable(iterator) in iterables:
+code to be executed
+we use for loop when we already know the statr point and end point
+iterator is simply a variable that is used in loop to access each element of the iterable
+iterable is a group data type where loop runs
+interation is a single time that a loop runs
+Range syntax: range(start_value, end_value, step)
+range is exclusive so it doesnot take the end value
+
+
+syntax for while loop:
+while condition:
+code to be executed
+we use while loop when we dont know the starting and ending point
+while loop has a defect, you may fall into infinite loop trap in while loop
+break- breaks and exit from the current loop
+continue-breaks the current iteration but continues the loop
+
+
+

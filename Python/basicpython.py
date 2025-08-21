@@ -29,7 +29,7 @@
 
 #if else
 #elif ladder
-#task create a simple calculator system
+
 #match match checks if the user input matches with our case or not. syntax: match:
 #case matching value:
 #executing code
@@ -45,5 +45,27 @@
 #         print("invalid input")
 # f string helps to print the variable inside the string. f stands for format
 
-Names = ["ram","hari"]
+# Names = ["ram","hari"]
 #task make a complete register use update method
+
+# TO
+
+# Create a list of usernames
+# Input a username from the user
+# Check if the username is present in the list or not
+
+# 2. Create a dictionary of usernames and passwords, 
+# 	extract all the usernames from the dictionary and 	input username from the user and check if the 	username is present in the extracted list of 	usernames
+# # Task: Create a simple calculator system
+# # Task: Make a complete register and login system using dictationary
+
+
+#20
+# list
+# for i in list
+# print i
+
+# for i in range(5,11,2):
+#     print(i)
+
+#create a fully functional calculator system using loop

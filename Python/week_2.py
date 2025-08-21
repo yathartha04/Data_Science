@@ -65,6 +65,7 @@ if lab in lab:
     print("Username already exists")
 else:
     print("username doesnot exist")
+    
 #Task 5.Make a complete register and login system using dictationary.
 
 # task = {
@@ -80,7 +81,7 @@ else:
 # username = input("Enter your username: ")
 # password = input("Enter your password: ")
 
-# if username in task and task.get(username) == password: # credentials[username] == password:
+# if username in task and task.get(username) == password: 
 #     print("Login Successful")
 # else:
 #     print("Login failed")
