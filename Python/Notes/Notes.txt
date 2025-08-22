@@ -50,4 +50,53 @@ break- breaks and exit from the current loop
 continue-breaks the current iteration but continues the loop
 
 
+######21 aug####
+functions
+we create a function and add the code that should be executed again and again call the function whenever we need it
+we use 'def' keyword to define  function
+example of a simple function
+syntax:
+def function_name():
+    block of code
 
+argument and parameter
+argument-argument are the values we pass to the function when calling the function
+parameter-parameter are the variabes that are used during the function definition to receivr the argument
+
+positional arguments-the parameter takes the argument according to the position (args)
+key word argument- (key:value)pair (kwargs)
+
+global variables & local variables
+the variables that are defined globally outside in 
+the variables that are defined inside the 
+
+#22 aug
+types of function
+built in function-the function that has been already created by python
+user defined function-the function that are created by user 
+
+list comprehension-the programical way of adding values to the list
+
+
+other functions-
+1.lambda function-it is a mini function written in one single line
+xmpl: add = lambda x, y : x + you
+      print(add(2,3))
+
+2.MAP function-
+num = [3,4,5,6]
+squares = list(map(lambda x: x + 2, num))
+print(squares)
+
+3.filters-
+numbers = [1,2,3,4,5]
+even_num = list(filter(lambda x: x % 2 == 0, num))
+print(even_num)
+
+4.reduce function
+from functools import reduce
+num = [1,2,3,4]
+sum_all = reduce(lambda x, y: x*y, num)
+print(sum_all)
+
+5.zip function

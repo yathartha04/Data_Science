@@ -68,4 +68,24 @@
 # for i in range(5,11,2):
 #     print(i)
 
-#create a fully functional calculator system using loop
+
+
+#21 aug
+#task: update loggin reg program using loop
+
+#22
+#args 
+def function(*args):
+    print(args)
+function(23,3,4,4)
+
+#kwargs
+def clss(**kwargs):
+    print(kwargs)
+clss(name="ww", ws=22)
+
+def yae(*args,**kwargs):
+    print
+    
+
+
