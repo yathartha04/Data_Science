@@ -86,6 +86,24 @@
 #August 22
 #Task 1.Use list comprehension to find even numbers from 1 to 100 (100 is inclusive)
 
-list1 = list(range(1, 101))
-list2 = [x for x in range(1,101) if x % 2 == 0] 
-print(list2)
+# list1 = list(range(1, 101))
+# list2 = [x for x in range(1,101) if x % 2 == 0] 
+# print(list2)
+
+#1. Create a program to take a string input from the user and print its length.
+# 2. Write a program to convert a list of strings into a list of integers.
+# 3. Write a program to check if a given number is even or odd.
+# 4. Write a program to find the largest of three numbers entered by the user.
+# 5. Write a program to print the multiplication table of a given number.
+# 6. Write a program to print all numbers from 1 to 50 that are divisible by 5.
+# 7. Write a program to count how many vowels are present in a given string.
+# 8. Write a program to print the factorial of a number using a while loop.
+# 9. Write a function to check whether a given number is prime or not.
+# 10. Write a function to reverse a string without using built-in functions like [::-1] or reversed().
+
+# list1 = list(range())
+enter = input("Enter a sentence: ")
+if enter == ("a e i o u") :
+    print("enter")
+else:
+    print("vowel not present")
